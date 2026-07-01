@@ -132,16 +132,16 @@ Then immediately output the Founder Brief in this exact format:
 
 ## Founder Brief
 
-*Name:* [their name]
-*Company:* [company name]
-*Company description:* [their answer, lightly edited for clarity]
-*Personal goal:* [their answer]
-*North star metric:* [the number they watch, or UNRESOLVED if unclear]
-*Team:* [key people and roles; gap flagged explicitly]
-*What they're thinking hardest about:* [long-term priority, in their words]
-*The last fire:* [operational reality, in their words]
-*The tension:* [the gap observation as they confirmed or corrected it]
-*Insight that surprised them most:* [which insight landed and what their response revealed]
+*Name:* [their name]  
+*Company:* [company name]  
+*Company description:* [their answer, lightly edited for clarity]  
+*Personal goal:* [their answer]  
+*North star metric:* [the number they watch, or UNRESOLVED if unclear]  
+*Team:* [key people and roles; gap flagged explicitly]  
+*What they're thinking hardest about:* [long-term priority, in their words]  
+*The last fire:* [operational reality, in their words]  
+*The tension:* [the gap observation as they confirmed or corrected it]  
+*Insight that surprised them most:* [which insight landed and what their response revealed]  
 
 ---
 
@@ -158,9 +158,9 @@ Say:
 >
 > If you want to work through this more deeply and build an operating system that helps you close that gap, the next step is to download and install the Bootstrap skill.
 >
-> **Go to:** https://github.com/BoSMark/BoS_OS_Start
-> **Download:** The BoS OS Start pack
-> **Install:** The bootstrap skill
+> **Go to:** https://github.com/BoSMark/BoS_OS_Start  
+> **Download:** The BoS OS Start pack  
+> **Install:** The bootstrap skill  
 >
 > That will take what you've told me here, combine it with public research on your company, and create a model of your operating system. Then we can drill into what needs to change."
 
