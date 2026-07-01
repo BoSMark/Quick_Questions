@@ -160,16 +160,16 @@ Then output the brief:
 
 ## Replaceability Brief
 
-*Name:* [their name]
-*Company:* [company name — one sentence description]
-*Pattern:* [The Firefighter / The Invisible Glue / The Strategic Bottleneck / The Rainmaker / The Brand / The Fixer / The Connector / The Product Brain]
-*What happens if they disappear for 6 months:* [their answer, lightly edited for clarity]
-*The dependency list:* [decisions, relationships, and knowledge that only they hold]
-*Their horizon:* [exit / step back / scale / hand on — and their timeframe if named]
-*North star metric:* [the number they watch — or UNRESOLVED if they don't have one yet]
-*The one thing they'd fix first:* [their Q5 answer]
-*Why it hasn't happened yet:* [their answer — their words, not yours]
-*The gap:* [the pattern observation as they confirmed or corrected it]
+*Name:* [their name]  
+*Company:* [company name — one sentence description]  
+*Pattern:* [The Firefighter / The Invisible Glue / The Strategic Bottleneck / The Rainmaker / The Brand / The Fixer / The Connector / The Product Brain]  
+*What happens if they disappear for 6 months:* [their answer, lightly edited for clarity]  
+*The dependency list:* [decisions, relationships, and knowledge that only they hold]  
+*Their horizon:* [exit / step back / scale / hand on — and their timeframe if named]  
+*North star metric:* [the number they watch — or UNRESOLVED if they don't have one yet]  
+*The one thing they'd fix first:* [their Q5 answer]  
+*Why it hasn't happened yet:* [their answer — their words, not yours]  
+*The gap:* [the pattern observation as they confirmed or corrected it]  
 
 ---
 
