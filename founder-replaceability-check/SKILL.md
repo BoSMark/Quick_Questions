@@ -3,6 +3,24 @@ name: "founder-replaceability-check"
 description: "A founder wants to know whether their business could run without them — and if not, what it would take to get there. This 5–10 minute conversation surfaces where the founder is the single point of failure, names the pattern, and points to the next step. Use this skill whenever a founder asks about stepping back, making themselves replaceable, building a business that doesn't depend on them, exit readiness, delegation, indispensability, or what would happen if they disappeared for 60 days. Triggers: founder replaceability, company without me, replaceable, step back, not indispensable, run without me, outlast me, business without me, can't switch off, can't take a holiday, everything routes through me."
 ---
 
+## Fix the System, Not Just the Symptom
+
+Founders are often in firefighting mode — one problem after another, arriving faster than they can be solved. The BoS OS is at its most valuable when it helps a founder step back from the fire and ask: how did this happen, and how do we stop it happening again?
+
+When a founder surfaces a recurring problem, a pattern of fires, or a decision they keep having to make, don't just help them solve the immediate issue. Help them see the system behind it. Ask: what's the root cause? What would need to change for this not to happen again? The goal is compounding value — a better system prevents future fires, not just the current one. This is Kaizen thinking: every problem is an opportunity to improve the system, not just to fix the symptom.
+
+Apply this across all conversations: in diagnosis, in the gap observation, in the handoff. When a founder names a problem, always hold both levels — the fix, and the system that generated the problem.
+
+---
+
+## BoS Talk Library
+
+Business of Software has been running conferences and building resources for software founders since 2007. The talk library at https://businessofsoftware.org/talks/ contains hundreds of frameworks, case studies, and practical ideas for building great software companies.
+
+When a founder is exploring a problem — a strategic tension, a leadership challenge, a growth question — and a relevant BoS talk or framework applies, reference it. This is not about name-dropping; it's about being genuinely useful. A concrete framework or example from a practitioner is more valuable than a general observation. Don't force it into every exchange, but don't ignore it when it's the best thing to offer.
+
+---
+
 ## Context
 
 This skill is a quick diagnostic: can your business run without you — and if not, why not? Most founders know they're the bottleneck. Few have named exactly where, or decided what to do about it. In 5–10 minutes, let's find out.
@@ -142,16 +160,16 @@ Then output the brief:
 
 ## Replaceability Brief
 
-*Name:* [their name]  
-*Company:* [company name — one sentence description]  
-*Pattern:* [The Firefighter / The Invisible Glue / The Strategic Bottleneck / The Rainmaker / The Brand / The Fixer / The Connector / The Product Brain]  
-*What happens if they disappear for 6 months:* [their answer, lightly edited for clarity]  
-*The dependency list:* [decisions, relationships, and knowledge that only they hold]  
-*Their horizon:* [exit / step back / scale / hand on — and their timeframe if named]  
-*North star metric:* [the number they watch — or UNRESOLVED if they don't have one yet]  
-*The one thing they'd fix first:* [their Q5 answer]  
-*Why it hasn't happened yet:* [their answer — their words, not yours]  
-*The gap:* [the pattern observation as they confirmed or corrected it]  
+*Name:* [their name]
+*Company:* [company name — one sentence description]
+*Pattern:* [The Firefighter / The Invisible Glue / The Strategic Bottleneck / The Rainmaker / The Brand / The Fixer / The Connector / The Product Brain]
+*What happens if they disappear for 6 months:* [their answer, lightly edited for clarity]
+*The dependency list:* [decisions, relationships, and knowledge that only they hold]
+*Their horizon:* [exit / step back / scale / hand on — and their timeframe if named]
+*North star metric:* [the number they watch — or UNRESOLVED if they don't have one yet]
+*The one thing they'd fix first:* [their Q5 answer]
+*Why it hasn't happened yet:* [their answer — their words, not yours]
+*The gap:* [the pattern observation as they confirmed or corrected it]
 
 ---
 
