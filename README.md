@@ -1,54 +1,48 @@
 # Quick Questions
 
-Quick Questions are short, sharp conversations that make founders think about the right things — fast.
+Short conversations that make founders think about the right things. Fast.
 
-Each one is a standalone skill you can run in Claude. It asks one focused question, works through it with you, and produces a concrete output in a single session. The whole thing takes minutes.
-
-Every Quick Question is also a doorway. If you want to go deeper, run the [BoS OS Bootstrap](https://github.com/BoSMark/BoS_OS_Start) skill. It builds a picture of your company from public information that will help the BoS OS ask you some meaningful questions.
+Each one runs in Claude, takes 5–15 minutes, and ends with something concrete you can act on.
 
 ---
 
-## Available Questions
+## Available questions
 
 | Skill | The question | Time |
 |-------|-------------|------|
 | [Founder Alignment Check](./founder-alignment/) | Are you and your team pointed at the same thing? | 5–10 min |
-| [Founder Replaceability Check](./founder-replaceability-check/) | Could your business run without you — and if not, what would it take? | 5–10 min |
+| [Founder Replaceability Check](./founder-replaceability-check/) | Could your business run without you, and if not, what would it take? | 5–10 min |
 | [AI Readiness Check](./ai-readiness-check/) | Where does AI actually fit in your business, and what should you leave alone? | 10–15 min |
-| [Your Next Hire](./your-next-hire/) | Money is no object — who's your next hire? | 5–10 min |
-| [Why Oh Why](./why-oh-why/) | What are you actually trying to achieve — underneath what you just asked for? | 5–10 min |
+| [Your Next Hire](./your-next-hire/) | Money is no object. Who is your next hire? | 5–10 min |
+| [Why Oh Why](./why-oh-why/) | What are you actually trying to achieve, underneath what you just asked for? | 5–10 min |
 
 ---
 
-## How to use one
+## How to run one
 
-1. Download the `.skill` file from the skill's folder
-2. Install it in Claude (Settings → Capabilities → Install skill)
-3. Open a new conversation and use the trigger phrase listed in the skill's README
-4. Have the conversation — usually 5–15 minutes
-5. Get a structured output you can act on immediately
+1. Download the `.skill` file from the skill's folder above
+2. Install it in Claude: Settings > Capabilities > Install skill
+3. Open a new conversation and use the trigger phrase in the skill's README
+4. Have the conversation
 
-If you want to go deeper: run the [BoS OS Bootstrap](https://github.com/BoSMark/BoS_OS_Start) skill. It builds a picture of your company from public information that will help the BoS OS ask you some meaningful questions.
-
----
-
-## What they're for
-
-Founders often know something is off but haven't named it yet. Quick Questions are designed to surface that thing — quickly, without ceremony. They don't replace deep strategy work. They make the deep work easier by giving you a clear starting point.
+**New to skills?** You will need Claude (free or paid works) and about 30 seconds to install. [How to install a skill](https://github.com/BoSMark/BoS_OS_Start#getting-started).
 
 ---
 
-## The design pattern
+## What comes next
 
-Every Quick Question follows the same structure:
+**[Build your own BoS OS](https://github.com/BoSMark/BoS_OS_Start)**
 
-- **One question** a founder would lose sleep over
-- **A short conversation** that surfaces what they actually think
-- **A structured output** that makes the answer concrete
-- **A clear handoff** to Bootstrap or Workshop when they're ready
+Quick Questions are part of a larger system. If a question surfaced something worth working on, the next step is the BoS OS Bootstrap. It researches your company from public information and sets up a structured operating system you can run with AI — one that remembers your decisions, tracks your missions, and helps your team stay aligned.
 
-If you want to build your own, copy an existing skill folder and follow the same pattern. The output should always be something useful in itself — not just a prompt to do more work.
+The question names the problem. Bootstrap gives you a system for working on it.
 
 ---
 
-*Quick Questions are part of the [BoS OS](https://github.com/BoSMark) — a system for helping software founders and leaders make better decisions. Built by [Business of Software](https://businessofsoftware.org).*
+## What they are for
+
+Founders often know something is off but have not named it yet. Quick Questions surface that thing quickly, without ceremony. They are not a substitute for deeper strategy work. They make the deeper work easier by giving you a clear starting point.
+
+---
+
+*Quick Questions are part of the [BoS OS](https://github.com/BoSMark), built by [Business of Software](https://businessofsoftware.org).*
