@@ -16,6 +16,7 @@ Every Quick Question is also a doorway. If you want to go deeper, run the [BoS O
 | [Founder Replaceability Check](./founder-replaceability-check/) | Could your business run without you — and if not, what would it take? | 5–10 min |
 | [AI Readiness Check](./ai-readiness-check/) | Where does AI actually fit in your business, and what should you leave alone? | 10–15 min |
 | [Your Next Hire](./your-next-hire/) | Money is no object — who's your next hire? | 5–10 min |
+| [Why Oh Why](./why-oh-why/) | What are you actually trying to achieve — underneath what you just asked for? | 5–10 min |
 
 ---
 

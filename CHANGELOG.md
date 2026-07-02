@@ -4,6 +4,16 @@ All notable changes to Quick Questions are documented here.
 
 ---
 
+## v1.2 — 2026-07-02
+
+**Added**
+- `why-oh-why` — new Quick Question skill. Conversational laddering diagnostic: takes any stated want and asks "why" repeatedly to surface the root driver underneath it, producing a WhyOhWhy Brief (stated want, the ladder, the bedrock, the gap). Added to README's Available Questions table.
+
+**Fixed**
+- `why-oh-why/SKILL.md` frontmatter had a duplicated/malformed `description` field (the full YAML block was nested inside the description string). Corrected to a plain `name` / `description` pair matching the other four skills.
+
+---
+
 ## v1.1 — 2026-07-01
 
 **Added**
