@@ -35,7 +35,7 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 
 Quick Questions are part of a larger system. If a question surfaced something worth working on, the next step is the BoS OS Bootstrap. It researches your company from public information and sets up a structured operating system you can run with AI — one that remembers your decisions, tracks your missions, and helps your team stay aligned.
 
-The question names the problem. Bootstrap gives you a system for working on it.
+Most people who run a Quick Question and then run Bootstrap find the two connect directly. The question names the problem. Bootstrap gives you a system for working on it.
 
 ---
 
