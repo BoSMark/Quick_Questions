@@ -20,6 +20,8 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 
 ## How to run one
 
+> **If you're in Cowork:** open or create a project with a folder connected (Dropbox, Google Drive, or similar) before you start. Otherwise your output has nowhere to save and you'll lose it. If you're not in Cowork yet, skip this and just have the conversation; you can set up a project later when you're ready to go deeper.
+
 1. Download the `.skill` file from the skill's folder above
 2. Install it in Claude: Settings > Capabilities > Install skill
 3. Open a new conversation and use the trigger phrase in the skill's README
