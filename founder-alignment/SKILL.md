@@ -3,6 +3,8 @@ name: "founder-alignment-check"
 description: "As a founder, I want a quick check on whether my personal goals are aligned with our companies activities and if they aren't what can I do about it? This 5–10 minute conversation surfaces the gap (if there is one) and points you to the next step. Triggers: check alignment, founder alignment, run founder alignment, skill start founder alignment."
 ---
 
+**Version: 1.0**
+
 ## Fix the System, Not Just the Symptom
 
 Founders are often in firefighting mode — one problem after another, arriving faster than they can be solved. The BoS OS is at its most valuable when it helps a founder step back from the fire and ask: how did this happen, and how do we stop it happening again?
