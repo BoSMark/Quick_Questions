@@ -15,12 +15,15 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 | [AI Readiness Check](./ai-readiness-check/) | Where does AI actually fit in your business, and what should you leave alone? | 10–15 min |
 | [Your Next Hire](./your-next-hire/) | Money is no object. Who is your next hire? | 5–10 min |
 | [Why Oh Why](./why-oh-why/) | What are you actually trying to achieve, underneath what you just asked for? | 5–10 min |
+| [CEO Interview Prep](./ceo-interview-prep/) | What's your story for this role, and where is it thin? | 5–15 min |
 
 ---
 
 ## How to run one
 
-1. Download the `.skill` file from the skill's folder above
+> **If you're in Cowork:** open or create a project with a folder connected (Dropbox, Google Drive, or similar) before you start. Otherwise your output has nowhere to save and you'll lose it. If you're not in Cowork yet, skip this and just have the conversation; you can set up a project later when you're ready to go deeper.
+
+1. Download the `.skill` file from the skill's folder above. Quick Questions are small enough that there's no build step. You're downloading the file as it sits in the repo, not a packaged release.
 2. Install it in Claude: Settings > Capabilities > Install skill
 3. Open a new conversation and use the trigger phrase in the skill's README
 4. Have the conversation

@@ -3,6 +3,8 @@ name: why-oh-why
 description: "Conversational laddering diagnostic that takes anything someone says they want — a request, a problem, a feature, a hire, a decision — and asks 'why' repeatedly until it surfaces what they're actually trying to achieve: the root cause, the real want underneath the stated one. Produces a WhyOhWhy Brief showing what they said they wanted first, and what was actually learned by asking why. One of the BoS OS onboarding diagnostics, alongside Your Next Hire and the Founder Alignment Check. Use whenever someone brings a specific ask and there's a deeper driver worth surfacing before acting on the surface request — 'I need X', 'we should build X', 'I want to hire for Y', 'can you just fix this'. MANDATORY TRIGGERS: run WhyOhWhy, why oh why, whyohwhy, what do I actually want, get to the root of this, ladder this up, five whys, 5 whys, root cause, what am I really trying to do."
 ---
 
+**Version: 1.0**
+
 ## The Drill Bit Principle
 
 Nobody buys a 1/4-inch drill bit because they want a drill bit. They want a 1/4-inch hole. Why do they want the hole? To hang a shelf. Why the shelf? Because that corner of the room is dark and cluttered. Why does that bother them? Because they want the room to feel like somewhere they can think.
