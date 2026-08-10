@@ -23,7 +23,7 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 
 > **If you're in Cowork:** open or create a project with a folder connected (Dropbox, Google Drive, or similar) before you start. Otherwise your output has nowhere to save and you'll lose it. If you're not in Cowork yet, skip this and just have the conversation; you can set up a project later when you're ready to go deeper.
 
-1. Download the `.skill` file from the skill's folder above. Quick Questions are small enough that there's no build step. You're downloading the file as it sits in the repo, not a packaged release.
+1. Download the `.skill` file from the skill's folder above
 2. Install it in Claude: Settings > Capabilities > Install skill
 3. Open a new conversation and use the trigger phrase in the skill's README
 4. Have the conversation
@@ -45,16 +45,6 @@ Most people who run a Quick Question and then run Bootstrap find the two connect
 ## What they are for
 
 Founders often know something is off but have not named it yet. Quick Questions surface that thing quickly, without ceremony. They are not a substitute for deeper strategy work. They make the deeper work easier by giving you a clear starting point.
-
----
-
-## More skills, and where to ask questions
-
-If this repo is useful, a star helps other founders find it. Follow or watch to get notified when new skills ship.
-
-All BoSMark repos: [github.com/BoSMark](https://github.com/BoSMark)
-
-**Questions, ideas, or feedback?** → [BoS OS Discussions](https://github.com/BoSMark/BoS_OS_Start/discussions)
 
 ---
 
