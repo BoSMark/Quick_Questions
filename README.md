@@ -48,4 +48,14 @@ Founders often know something is off but have not named it yet. Quick Questions 
 
 ---
 
+## More skills, and where to ask questions
+
+If this repo is useful, a star helps other founders find it. Follow or watch to get notified when new skills ship.
+
+All BoSMark repos: [github.com/BoSMark](https://github.com/BoSMark)
+
+**Questions, ideas, or feedback?** → [BoS OS Discussions](https://github.com/BoSMark/BoS_OS_Start/discussions)
+
+---
+
 *Quick Questions are part of the [BoS OS](https://github.com/BoSMark), built by [Business of Software](https://businessofsoftware.org).*
