@@ -3,6 +3,8 @@ name: "your-next-hire"
 description: "Conversational diagnostic for founders who want to identify the most important gap in their business. Interviews the founder about what they're doing, what's falling through the cracks, and arrives at the central question: money is no object — who's your next hire? Produces a Next Hire Brief and infers what the answer reveals about the founder's thinking and company stage. Use this skill whenever a founder mentions hiring, team gaps, capacity problems, doing too much themselves, what role to hire next, or who they need. MANDATORY TRIGGERS: next hire, who should I hire, team gap, hiring decision, I'm doing everything, I need to bring someone in, what role do I need."
 ---
 
+**Version: 1.0**
+
 ## Fix the System, Not Just the Symptom
 
 Founders are often in firefighting mode — one problem after another, arriving faster than they can be solved. The BoS OS is at its most valuable when it helps a founder step back from the fire and ask: how did this happen, and how do we stop it happening again?
@@ -110,7 +112,7 @@ Structure the inference in three beats:
 Beat 1 -- Name the gap:
 So what I'm hearing is that the gap is [X] -- is that fair?
 
-Make this specific. Not "you need more support" -- name the actual function or capability.
+Make this specific. Not "you need more support" but name the actual function or capability.
 
 Beat 2 -- Name what it reveals:
 The thing I find interesting about that answer is [observation]. When a founder says their next hire is [role], it usually means [what it implies about company stage / founder belief / what's holding them back].

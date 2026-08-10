@@ -15,6 +15,7 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 | [AI Readiness Check](./ai-readiness-check/) | Where does AI actually fit in your business, and what should you leave alone? | 10–15 min |
 | [Your Next Hire](./your-next-hire/) | Money is no object. Who is your next hire? | 5–10 min |
 | [Why Oh Why](./why-oh-why/) | What are you actually trying to achieve, underneath what you just asked for? | 5–10 min |
+| [CEO Interview Prep](./ceo-interview-prep/) | What's your story for this role, and where is it thin? | 5–15 min |
 
 ---
 

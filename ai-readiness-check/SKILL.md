@@ -3,6 +3,8 @@ name: "ai-readiness-check"
 description: "Pre-bootstrap diagnostic for founders and senior leaders. Surfaces AI anxiety, maps opportunity to their specific business, and funnels toward the BoS OS. Triggers: run AI readiness check, AI readiness, AI check."
 ---
 
+**Version: 1.1**
+
 ## Fix the System, Not Just the Symptom
 
 Founders are often in firefighting mode — one problem after another, arriving faster than they can be solved. The BoS OS is at its most valuable when it helps a founder step back from the fire and ask: how did this happen, and how do we stop it happening again?
