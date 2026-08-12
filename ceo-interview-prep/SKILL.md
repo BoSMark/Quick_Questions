@@ -1,6 +1,8 @@
 ---
 name: "ceo-interview-prep"
 description: "The ultimate cheat sheet for someone preparing to be interviewed for a CEO role — succession, turnaround, a PE-backed search, or handover from a founder. Surfaces their story, their track record, and the question they're dreading, then names the pattern their pitch falls into and the risk that pattern carries into the room. Produces a CEO Interview Brief and a Bootstrap Handover Brief, so if the candidate wants to go further, Bootstrap's own research and Opening Questions carry straight on from this conversation instead of starting over. Use this skill whenever someone is preparing for, interviewing for, or being considered for a CEO position. Triggers: CEO interview, CEO interview prep, interviewing for CEO, prepping for a CEO interview, board interview for CEO, CEO search, becoming a CEO, first CEO interview, CEO succession interview."
+metadata:
+  version: 1.0.0
 ---
 
 **Version: 1.0**

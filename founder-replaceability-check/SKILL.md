@@ -1,6 +1,8 @@
 ---
 name: "founder-replaceability-check"
 description: "A founder wants to know whether their business could run without them — and if not, what it would take to get there. This 5–10 minute conversation surfaces where the founder is the single point of failure, names the pattern, and points to the next step. Use this skill whenever a founder asks about stepping back, making themselves replaceable, building a business that doesn't depend on them, exit readiness, delegation, indispensability, or what would happen if they disappeared for 60 days. Triggers: founder replaceability, company without me, replaceable, step back, not indispensable, run without me, outlast me, business without me, can't switch off, can't take a holiday, everything routes through me."
+metadata:
+  version: 1.1.0
 ---
 
 **Version: 1.1**

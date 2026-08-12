@@ -1,6 +1,8 @@
 ---
 name: "founder-alignment-check"
 description: "As a founder, I want a quick check on whether my personal goals are aligned with our companies activities and if they aren't what can I do about it? This 5–10 minute conversation surfaces the gap (if there is one) and points you to the next step. Triggers: check alignment, founder alignment, run founder alignment, skill start founder alignment."
+metadata:
+  version: 1.0.0
 ---
 
 **Version: 1.0**
