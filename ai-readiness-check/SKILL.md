@@ -1,6 +1,8 @@
 ---
 name: "ai-readiness-check"
 description: "Pre-bootstrap diagnostic for founders and senior leaders. Surfaces AI anxiety, maps opportunity to their specific business, and funnels toward the BoS OS. Triggers: run AI readiness check, AI readiness, AI check."
+metadata:
+  version: 1.1.0
 ---
 
 **Version: 1.1**
