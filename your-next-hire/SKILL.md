@@ -1,6 +1,8 @@
 ---
 name: "your-next-hire"
 description: "Conversational diagnostic for founders who want to identify the most important gap in their business. Interviews the founder about what they're doing, what's falling through the cracks, and arrives at the central question: money is no object — who's your next hire? Produces a Next Hire Brief and infers what the answer reveals about the founder's thinking and company stage. Use this skill whenever a founder mentions hiring, team gaps, capacity problems, doing too much themselves, what role to hire next, or who they need. MANDATORY TRIGGERS: next hire, who should I hire, team gap, hiring decision, I'm doing everything, I need to bring someone in, what role do I need."
+metadata:
+  version: 1.0.0
 ---
 
 **Version: 1.0**
