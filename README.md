@@ -10,7 +10,7 @@ Each one runs in Claude, takes 5–15 minutes, and ends with something concrete 
 
 | Skill | The question | Time |
 |-------|-------------|------|
-| [Founder Alignment Check](./founder-alignment/) | Are you and your team pointed at the same thing? | 5–10 min |
+| [Founder Alignment](./founder-alignment/) | Are you and your team pointed at the same thing? | varies |
 | [Founder Replaceability Check](./founder-replaceability-check/) | Could your business run without you, and if not, what would it take? | 5–10 min |
 | [AI Readiness Check](./ai-readiness-check/) | Where does AI actually fit in your business, and what should you leave alone? | 10–15 min |
 | [Your Next Hire](./your-next-hire/) | Money is no object. Who is your next hire? | 5–10 min |

@@ -1,10 +1,10 @@
-# Founder Alignment Check
+# Founder Alignment
 
-**The question:** Are you and your team pointed at the same thing?
+Are you and your team pointed at the same thing?
 
-This is a 5–10 minute conversation that surfaces whether your personal goal, your north star metric, and your stated priorities are actually aligned — and whether the key people around you know what you're trying to build.
+A short conversation that surfaces whether your personal goal, your north star metric, and what you're actually spending your time on pull in the same direction, and whether the people around you know what you're trying to build. It's a check on alignment, not a diagnosis of one specific problem.
 
-You get a Founder Brief at the end: a structured snapshot of where you're aligned and where the tensions are, based on what you said in the conversation.
+This is the pre-Bootstrap step. Once the conversation is done, it hands straight into Bootstrap in the same session, so you don't repeat yourself, and Bootstrap researches your company with your goals and tensions already in view instead of starting from a blank set of questions.
 
 ---
 
@@ -12,10 +12,10 @@ You get a Founder Brief at the end: a structured snapshot of where you're aligne
 
 1. Download [`founder-alignment.skill`](./founder-alignment.skill)
 2. Open Claude → Settings → Capabilities → Install skill
-3. Start a new conversation and say: **"founder alignment"**
+3. Start a new conversation and say "founder alignment"
 
 ---
 
-## What comes next
+## What you get
 
-If you want to go deeper, run the [BoS OS Bootstrap](https://github.com/BoSMark/BoS_OS_Start) skill. It builds a picture of your company from public information that will help the BoS OS ask you some meaningful questions.
+A Founder Alignment Brief covering your company, your personal goal, your north star metric, your team and where the gaps are, and an honest read on whether those line up. Then, in the same session, Bootstrap takes that brief and gets to work.

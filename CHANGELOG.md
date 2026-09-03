@@ -4,6 +4,16 @@ All notable changes to Quick Questions are documented here.
 
 ---
 
+## v1.3 — 2026-09-03
+
+**Changed**
+- `founder-alignment` — rearchitected as a pre-Bootstrap intake conversation. Produces a Founder Alignment Brief (company, personal goal, north star metric, team map, confirmed tension) that hands directly into Bootstrap in the same session, so Bootstrap skips its own opening questions instead of asking you to repeat yourself. New handoff, no separate install step. Added a line inviting a direct reply if anything in the conversation is worth following up on. `README.md` updated to match.
+- `your-next-hire` — handoff now uses the same clear two-part instructions as `founder-replaceability-check` and `ai-readiness-check`: say "run the Bootstrap skill" if you already have the BoS OS plugin in Cowork, otherwise a direct link to get set up. Fixed a typo in the old instructions.
+- `why-oh-why` — the same handoff clarity fix: the "no BoS OS yet" branch now gives concrete next steps instead of a placeholder.
+- All three above gained an Integration & Hand-offs section describing what each skill assumes going in and what it hands off to next.
+
+---
+
 ## v1.2 — 2026-07-02
 
 **Added**

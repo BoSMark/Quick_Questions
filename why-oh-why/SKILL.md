@@ -1,11 +1,9 @@
 ---
 name: why-oh-why
 description: "Conversational laddering diagnostic that takes anything someone says they want — a request, a problem, a feature, a hire, a decision — and asks 'why' repeatedly until it surfaces what they're actually trying to achieve: the root cause, the real want underneath the stated one. Produces a WhyOhWhy Brief showing what they said they wanted first, and what was actually learned by asking why. One of the BoS OS onboarding diagnostics, alongside Your Next Hire and the Founder Alignment Check. Use whenever someone brings a specific ask and there's a deeper driver worth surfacing before acting on the surface request — 'I need X', 'we should build X', 'I want to hire for Y', 'can you just fix this'. MANDATORY TRIGGERS: run WhyOhWhy, why oh why, whyohwhy, what do I actually want, get to the root of this, ladder this up, five whys, 5 whys, root cause, what am I really trying to do."
-metadata:
-  version: 1.0.0
 ---
 
-**Version: 1.0**
+**Version: 1.1**
 
 ## The Drill Bit Principle
 
@@ -161,7 +159,11 @@ Say:
 >
 > Worth naming what just happened, too: instead of taking your first answer and running with it, we kept asking why until we hit something real. That's a different way of working with AI tools generally — most people ask for the fix; the sharper move is asking the tool to push back until you've found the actual problem. Worth carrying into how you use AI elsewhere, not just here.
 >
-> This is the kind of thing that gets clearer the more I understand about your business. [If no BoS OS exists yet for them: Running the Bootstrap would build that — want to do that next?] [If a BoS OS already exists: Taking this into the Workshop would let us dig into it with the context of your strategy docs already in place — want to do that next?]"
+> This is the kind of thing that gets clearer the more I understand about your business.
+>
+> **If no BoS OS exists yet for them:** "Running Bootstrap would build that — I'd research your company and set up a working system, so answers like this one get sharper over time instead of starting from zero each time. If you have the BoS OS plugin installed in Cowork, just say 'run the Bootstrap skill'. Otherwise, go to https://github.com/BoSMark/BoS_OS_Start to get set up. Want to do that next?"
+>
+> **If a BoS OS already exists for them:** "Taking this into the Workshop would let us dig into it with the context of your strategy docs already in place — want to do that next?""
 
 Check which applies before saying it — if you don't already know, ask or look for signs of an existing BoS OS (a CLAUDE.md, a 02_STRATEGY folder, prior sessions). Don't offer both options at once; pick the one that fits.
 
@@ -176,3 +178,13 @@ Check which applies before saying it — if you don't already know, ask or look 
 - **They push back on the gap you named:** take it seriously and revise. Your reading is a prompt for their thinking, not a verdict.
 - **Multiple wants tangled together:** if they open with two or three things at once, ask which one to ladder first — "Which of those is the one you'd want to understand first?" — and note the others as parked, not dropped.
 - **Keep the conversation conversational** — this is a chat, not an interview script read aloud. Save the structure for the brief at the end.
+
+---
+
+## Integration & Hand-offs
+
+**Before this skill:** nothing required. WhyOhWhy is a standalone entry point — anyone can run it cold, no existing BoS OS needed.
+
+**After this skill:** hands off to one of two places depending on what the person already has. No BoS OS yet — the concrete Bootstrap CTA above (say "run the Bootstrap skill" if the BoS OS plugin is already installed in Cowork, otherwise https://github.com/BoSMark/BoS_OS_Start). A BoS OS already exists — offer the Workshop skill instead, so the laddering result gets worked with the person's existing strategy docs rather than starting cold.
+
+**What this hands off:** the WhyOhWhy Brief (stated want, the ladder, the bedrock, the gap) is not currently passed as structured input to Bootstrap or Workshop — the founder re-answers those skills' own opening questions. Worth a follow-on fix to match the founder-alignment pattern, not done in this release.

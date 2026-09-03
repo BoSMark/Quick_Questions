@@ -1,11 +1,9 @@
 ---
 name: "your-next-hire"
 description: "Conversational diagnostic for founders who want to identify the most important gap in their business. Interviews the founder about what they're doing, what's falling through the cracks, and arrives at the central question: money is no object — who's your next hire? Produces a Next Hire Brief and infers what the answer reveals about the founder's thinking and company stage. Use this skill whenever a founder mentions hiring, team gaps, capacity problems, doing too much themselves, what role to hire next, or who they need. MANDATORY TRIGGERS: next hire, who should I hire, team gap, hiring decision, I'm doing everything, I need to bring someone in, what role do I need."
-metadata:
-  version: 1.0.0
 ---
 
-**Version: 1.0**
+**Version: 1.1**
 
 ## Fix the System, Not Just the Symptom
 
@@ -156,9 +154,9 @@ Here's what we've established: you think the gap in your business is [recap the 
 
 We can think about how you can address that gap, or see whether there are other obvious gaps you might want to address. Let me educate myself a bit more on your company and situation.
 
-Go to: https://github.com/BoSMark/BoS_OS_Start
-Download: The BOSSOS Start pack
-Install: The bootstrap skill
+**If you have the BoS OS plugin installed in Cowork:** just say "run the Bootstrap skill" and we'll go straight into it.
+
+**Everyone else:** go to https://github.com/BoSMark/BoS_OS_Start -- that's where you'll find everything you need to get set up.
 
 That will give me some more context so we can have a useful conversation.
 
@@ -171,3 +169,13 @@ That will give me some more context so we can have a useful conversation.
 - They say "I don't know": that's data. Reflect it back -- What would need to be true for you to know?
 - They push back on the inference: take it seriously, update the brief. Your reading isn't the truth -- it's a prompt for them to sharpen their own thinking.
 - Keep responses conversational -- this is a chat, not a report. Save the structure for the brief at the end.
+
+---
+
+## Integration & Hand-offs
+
+**Before this skill:** nothing required. Standalone entry point — a founder can run this cold, no existing BoS OS needed.
+
+**After this skill:** the Next Hire Brief hands off to Bootstrap (https://github.com/BoSMark/BoS_OS_Start), which researches the company and builds a working operating system from what this conversation surfaced. If the founder already has the BoS OS plugin installed in Cowork, Bootstrap can run in the same session with no re-installation.
+
+**What this hands off:** the Next Hire Brief (the founder's stated gap, the inference about what it reveals, company stage signal) — not currently passed as structured input to Bootstrap the way the Founder Alignment Brief is; Bootstrap re-asks its own opening questions. Worth a follow-on fix to match the founder-alignment pattern, not done in this release.
