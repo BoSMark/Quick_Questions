@@ -2,7 +2,7 @@
 
 Short conversations that make founders think about the right things. Fast.
 
-Each one runs in Claude, takes 5–15 minutes, and ends with something concrete you can act on.
+Each one runs in Claude, ChatGPT or your preferred harness, takes 5–15 minutes, and ends with something concrete you can act on.
 
 ---
 
