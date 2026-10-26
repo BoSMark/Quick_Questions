@@ -21,12 +21,37 @@ Each one runs in Claude, ChatGPT or your preferred harness, takes 5–15 minutes
 
 ## How to run one
 
-> **If you're in Cowork:** open or create a project with a folder connected (Dropbox, Google Drive, or similar) before you start. Otherwise your output has nowhere to save and you'll lose it. If you're not in Cowork yet, skip this and just have the conversation; you can set up a project later when you're ready to go deeper.
+Every question is a plain-text set of instructions in a `SKILL.md` file. Claude can install it as a skill. ChatGPT and any other AI can run it if you paste it in. Nothing needs code, an API key or a paid plan, and the conversation works the same way wherever you run it.
+
+### In Claude
 
 1. Download the `.skill` file from the skill's folder above
 2. Install it in Claude: Settings > Capabilities > Install skill
 3. Open a new conversation and use the trigger phrase in the skill's README
 4. Have the conversation
+
+> If you use Cowork, open or create a project with a folder connected (Dropbox, Google Drive or similar) before you start. Otherwise your output has nowhere to save. If you are not in Cowork, skip this and just have the conversation. You can set up a project later when you want to go deeper.
+
+### In ChatGPT
+
+1. Open the skill's folder above and open `SKILL.md`
+2. Copy the whole file, using the Raw view on GitHub if you want it clean
+3. Start a new chat and paste it as your first message, followed by the trigger phrase from the skill's README
+4. Have the conversation
+
+To run the same question repeatedly, paste the file into a Custom GPT's instructions, or into a Project's instructions, instead of pasting it each time.
+
+### In any other AI
+
+Gemini, Copilot, Mistral, a local model or anything else that takes a long first message works the same way as ChatGPT. Paste the contents of `SKILL.md` as your first message or into the tool's custom instructions, then say the trigger phrase.
+
+### Which AI works best
+
+Any current frontier model can run these. A smaller model may skip steps or ask several questions at once. If that happens, tell it to ask one question at a time and follow the instructions in the file exactly.
+
+### Saving your output
+
+Each question ends with a short written brief. Claude with a connected folder saves it for you. In ChatGPT or another AI, copy the brief into your own notes or documents before you close the chat.
 
 **New to skills?** You will need Claude (free or paid works) and about 30 seconds to install. [How to install a skill](https://github.com/BoSMark/BoS_OS_Start#getting-started).
 
