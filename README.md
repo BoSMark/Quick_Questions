@@ -21,7 +21,7 @@ Each one runs in Claude, ChatGPT or your preferred harness, takes 5–15 minutes
 
 ## How to run one
 
-Every question is a plain-text set of instructions in a `SKILL.md` file. Claude can install it as a skill. ChatGPT and any other AI can run it if you paste it in. Nothing needs code, an API key or a paid plan, and the conversation works the same way wherever you run it.
+Every question is a plain-text set of instructions in a `SKILL.md` file. Claude can install it as a skill. ChatGPT and any other AI can run it if you paste it in. Nothing here needs code or an API key, a free plan should be enough, and the conversation works the same way wherever you run it.
 
 ### In Claude
 
@@ -47,11 +47,11 @@ Gemini, Copilot, Mistral, a local model or anything else that takes a long first
 
 ### Which AI works best
 
-Any current frontier model can run these. A smaller model may skip steps or ask several questions at once. If that happens, tell it to ask one question at a time and follow the instructions in the file exactly.
+A capable current model should run these. A smaller model may skip steps or ask several questions at once. If that happens, tell it to ask one question at a time and follow the instructions in the file exactly.
 
 ### Saving your output
 
-Each question ends with a short written brief. Claude with a connected folder saves it for you. In ChatGPT or another AI, copy the brief into your own notes or documents before you close the chat.
+Most questions end with a short written brief. Claude with a connected folder saves it for you. In ChatGPT or another AI, copy the output into your own notes or documents before you close the chat.
 
 **New to skills?** You will need Claude (free or paid works) and about 30 seconds to install. [How to install a skill](https://github.com/BoSMark/BoS_OS_Start#getting-started).
 

@@ -23,6 +23,24 @@ Use this before your interview is scheduled, or as soon as you know it's coming.
 
 If you get the job and want to build a system to run it, the Bootstrap Handover Brief carries straight into Bootstrap — no repeating yourself.
 
+## How to run it
+
+### In Claude
+
+1. Download [`ceo-interview-prep.skill`](./ceo-interview-prep.skill)
+2. Open Claude → Settings → Capabilities → Install skill
+3. Start a new conversation and say: **"CEO interview prep"**
+
+### In ChatGPT or any other AI
+
+1. Open [`SKILL.md`](./SKILL.md) and copy the whole file
+2. Start a new chat and paste it as your first message
+3. On the next line, say: **"CEO interview prep"**
+
+To run it again without pasting, put the file in a Custom GPT's instructions, a Project's instructions, or your AI's custom instructions. Copy the output into your own notes before you close the chat, because only Claude with a connected folder saves it for you.
+
+---
+
 ## How It Fits into BoS OS
 
 **ceo-interview-prep** is an **entry-point skill**, like the rest of the Quick Questions family. It assumes nothing — no prior BoS OS, no completed Bootstrap, nothing installed beyond this skill itself.

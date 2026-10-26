@@ -8,11 +8,21 @@ This is the pre-Bootstrap step. Once the conversation is done, it hands straight
 
 ---
 
-## Install
+## How to run it
+
+### In Claude
 
 1. Download [`founder-alignment.skill`](./founder-alignment.skill)
 2. Open Claude → Settings → Capabilities → Install skill
-3. Start a new conversation and say "founder alignment"
+3. Start a new conversation and say: **"founder alignment"**
+
+### In ChatGPT or any other AI
+
+1. Open [`SKILL.md`](./SKILL.md) and copy the whole file
+2. Start a new chat and paste it as your first message
+3. On the next line, say: **"founder alignment"**
+
+To run it again without pasting, put the file in a Custom GPT's instructions, a Project's instructions, or your AI's custom instructions. Copy the output into your own notes before you close the chat, because only Claude with a connected folder saves it for you.
 
 ---
 
