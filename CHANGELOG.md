@@ -4,6 +4,22 @@ All notable changes to Quick Questions are documented here.
 
 ---
 
+## 2026-10-26, README run instructions for ChatGPT and any other AI
+
+PR #12 (merge `ca7a5a5`) rewrote the root README's "How to run one" section so it covers Claude, ChatGPT and other AI tools, building on the earlier "Add ChatGPT as a platform option" commit (`c1a4442`). PR #13 (merge `e007370`) carried the same instructions into the six skill READMEs and corrected three claims in the root README.
+
+What changed:
+- Root `README.md` has separate run instructions for Claude, ChatGPT and any other AI. In ChatGPT and other tools, the user pastes `SKILL.md` as the first message, then says the trigger phrase. A Custom GPT, Project or custom-instructions route covers repeat use.
+- Each skill README (`ai-readiness-check`, `ceo-interview-prep`, `founder-alignment`, `founder-replaceability-check`, `why-oh-why`, `your-next-hire`) now has a "How to run it" section with the same Claude and any-AI steps. `ceo-interview-prep` had no install section before, so this one is new.
+- Claims softened in the root README. "Any current frontier model can run these" is now "A capable current model should run these". "Nothing needs code, an API key or a paid plan" now says a free plan should be enough. "Each question ends with a short written brief" is now "Most questions end with a short written brief", because AI Readiness Check only writes a summary when asked.
+- Users are told to copy the output into their own notes before closing the chat, since only Claude with a connected folder saves it.
+
+What did not change: no `SKILL.md` file, no `.skill` package and no skill version. The paste route has not been tested in ChatGPT, which is why the README says "should run".
+
+Review: PR #12 was pasted straight into GitHub without a BQG pass. PR #13 was checked against the AI Content Tells list, and Jo signed off its exact content on 2026-10-26 before the PR was opened. The three claim corrections in PR #13 came out of that review of PR #12's wording.
+
+---
+
 ## v1.2 (founder-alignment) — retroactive catch-up entry, added 2026-09-03
 
 `founder-alignment` (originally tracked locally as `founder-alignment-check`) shipped to live `main` as frontmatter `version: 1.2` with no CHANGELOG entry, Plan doc, or session record anywhere — discovered only when this session verified live GitHub state against BoS OS's local tracking while working RL-229. Per Jo, 2026-09-03: doesn't matter how it happened, fix the record and move on. This entry exists so the gap in this file doesn't repeat itself.
