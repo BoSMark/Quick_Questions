@@ -8,11 +8,21 @@ Most founders know they're the bottleneck. Few have named exactly where, or deci
 
 ---
 
-## Install
+## How to run it
+
+### In Claude
 
 1. Download [`founder-replaceability-check.skill`](./founder-replaceability-check.skill)
 2. Open Claude → Settings → Capabilities → Install skill
 3. Start a new conversation and say: **"founder replaceability"**
+
+### In ChatGPT or any other AI
+
+1. Open [`SKILL.md`](./SKILL.md) and copy the whole file
+2. Start a new chat and paste it as your first message
+3. On the next line, say: **"founder replaceability"**
+
+To run it again without pasting, put the file in a Custom GPT's instructions, a Project's instructions, or your AI's custom instructions. Copy the output into your own notes before you close the chat, because only Claude with a connected folder saves it for you.
 
 ---
 
